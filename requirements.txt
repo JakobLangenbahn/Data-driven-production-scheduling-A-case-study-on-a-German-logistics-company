@@ -78,7 +78,7 @@ notebook-shim==0.2.2
 notebook==6.5.2
 numba==0.56.4
 numpy-ml==0.1.2
-numpy==1.19.5
+numpy==1.22.0
 oauthlib==3.2.2
 openpyxl==3.0.10
 opt-einsum==3.3.0
